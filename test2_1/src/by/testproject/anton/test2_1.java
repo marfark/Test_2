@@ -1,7 +1,10 @@
 package by.testproject.anton;
 
 public class test2_1 {
-
+//
+	//
+	//
+	//
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		float f = 7.0F;
